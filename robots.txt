@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/handyman-group-sfl-1bb81/sitemap.xml
+Sitemap: https://handyman-group-sfl-1bb81.pages.dev/sitemap.xml
